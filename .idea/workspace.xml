@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d915409-d9fe-4815-ae39-8227a31d5107" name="Changes" comment="CURSO PYTHON MODULO 1">
-      <change afterPath="$PROJECT_DIR$/ex.023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex0012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +53,7 @@
     "Python.ex029.executor": "Run",
     "Python.ex030.executor": "Run",
     "Python.ex031.executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

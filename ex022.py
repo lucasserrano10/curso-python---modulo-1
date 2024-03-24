@@ -1,0 +1,6 @@
+nomeUsuario = str(input('DIGITE SEU NOME COMPLETO :')).strip()
+print('analisando seu nome...')
+print(nomeUsuario.upper())
+print(nomeUsuario.lower())
+print(f'as letras do seu nome são {(len(nomeUsuario) - nomeUsuario.count(""))}')
+print(nomeUsuario.find(''))

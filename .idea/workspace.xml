@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d915409-d9fe-4815-ae39-8227a31d5107" name="Changes" comment="CURSO PYTHON MODULO 1">
-      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex33.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +63,15 @@
     "Python.ex030.executor": "Run",
     "Python.ex031.executor": "Run",
     "Python.ex032.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex33.executor": "Run",
     "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

@@ -1,6 +1,9 @@
-razao = int(input('qual é a razão da PA :'))
-a1 = int(input('qual é o primeiro termo da PA'))
-
-for n in range(a1,100,a1*razao):
-    pa = (a1 * razao)*q
-    print(pa)
+print(f'-=-'*20)
+print('10 TERMOS PA')
+print(f'-=-'*20)
+a1 = int(input('PRIMEIRO TERMO :'))
+razao = int(input('QUAL A RAZÃO : '))
+a10 = a1 + (10-1)*razao
+for c in range(a1,a10 + razao,razao):
+    print(c)
+print('acabou !')

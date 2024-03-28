@@ -1,9 +1,6 @@
-qtdade = 4
-n = 0
-soma = 0
-for n in range(0,qtdade,1):
+somaPares = 0
+for c in range(1,7):
     n = int(input('DIGITE UM NÚMERO :'))
     if n % 2 == 0:
-        soma = n + (qtdade == n)
-print('FIM')
-print(soma)
+        somaPares += n
+print(f'A SOMA DOS {c} NÚMEROS PARES INFORMADOS SÃO : {somaPares}')

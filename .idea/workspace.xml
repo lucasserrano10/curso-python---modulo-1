@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d915409-d9fe-4815-ae39-8227a31d5107" name="Changes" comment="CURSO PYTHON MODULO 1">
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX061.PY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.EX061.PY.executor": "Run",
     "Python.ex.023.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex0012.executor": "Run",
@@ -83,6 +86,8 @@
     "Python.ex057.executor": "Run",
     "Python.ex058.executor": "Run",
     "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex062.executor": "Run",
     "Python.ex33.executor": "Run",
     "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",

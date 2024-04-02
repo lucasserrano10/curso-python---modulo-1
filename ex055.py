@@ -6,6 +6,9 @@ while c != 1:
     if escolha == 5:
         c = 1
         print(f'-=-' * 20)
+    elif escolha != 1 and escolha != 2 and escolha != 3 and escolha != 4 and escolha != 5:
+        print('OPÇÃO INVÁLIDA')
+        print(f'-=-' * 20)
     elif escolha == 4:
         print(f'a divisão é {n1/n2}')
         print(f'-=-' * 20)

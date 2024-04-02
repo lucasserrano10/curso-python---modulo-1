@@ -1,10 +1,12 @@
 numero = int(input('DIGITE UM NÚMERO :'))
-i = numero - 1
+contador = numero - 1
 somaF = 0
 print(f'{numero} FATORIAL !')
-while i != 1:
-    c = numero*i
+while contador != 1:
+    c = numero*contador
     numero = c
-    i -= 1
-    print(f'{numero}x{i}={numero*i}')
-print(f'resultado fatorial - {numero*i}')
+    contador -= 1
+    print(f'{numero}x{contador}={numero*contador}')
+print(f'resultado fatorial - {numero*contador}')
+
+#DA PARA IMPORTAR DE MATH FATORIAL#

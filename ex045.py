@@ -1,5 +1,4 @@
-n  = int(input('DIGITE UM NÚMERO PARA SABER A TABUADA :'))
-for c in range(0,11):
-    resultado = (c*n)
-    print(f'{c} x {n} = {resultado}')
+n = int(input('NÚMERO PARA FAZER A TABUADA :'))
+for c in range(1,11):
+    print(f'{n} X {c} = {n*c}')
 print('FIM')

@@ -10,24 +10,26 @@ print(f'-'*25)
 
 while True:
     nUser = int(input('DIGA UM NÚMERO :'))
-    jUser = str(input('PAR OU IMPAR ?')).strip().upper()
+    jUser = str(input('PAR OU IMPAR ?')).strip().lower()
+    while jUser not in ('impar' or 'par'):
+        jUser = str(input('PAR OU IMPAR ?')).strip().lower()
     nComputador = choice(numeros)
-    if jUser == "PAR":
-        jComputador = "IMPAR"
-    elif jUser == "IMPAR":
-        jComputador = "PAR"
+    if jUser == "par":
+        jComputador = "impar"
+    elif jUser == "impar":
+        jComputador = "par"
     print(f'ANALISANDO...')
-    sleep(3)
+    sleep(2)
     print(f'-' * 25)
     print(f'USUÁRIO, NÚMERO :{nUser}, JOGADA: {jUser}')
-    print(f'-' * 25)
     print(f'COMPUTADOR, NÚMERO:{nComputador}, JOGADA: {jComputador}')
     print(f'-' * 25)
     if (nComputador + nUser) % 2 == 0:
-        if jUser == "PAR":
-            print('USUÁRIO GANHOU !')
+        if jUser == "par":
+            print('VOCÊ GANHOU !')
             contadorVitoriasUsuario += 1
         else:
+            print(f'-' * 25)
             print(f'COMPUTADOR GANHOU !, VOCÊ VENCEU {contadorVitoriasUsuario} VEZES')
             break
 
